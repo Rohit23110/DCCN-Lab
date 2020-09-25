@@ -1,0 +1,17 @@
+
+Pinging pravda.ru [185.201.54.50] with 500 bytes of data:
+Reply from 185.201.54.50: bytes=500 time=204ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=200ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=166ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=197ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=203ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=196ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=194ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=208ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=202ms TTL=51
+Reply from 185.201.54.50: bytes=500 time=164ms TTL=51
+
+Ping statistics for 185.201.54.50:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 164ms, Maximum = 208ms, Average = 193ms

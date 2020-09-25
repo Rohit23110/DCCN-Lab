@@ -1,0 +1,17 @@
+
+Pinging www.google.com [142.250.67.164] with 64 bytes of data:
+Reply from 142.250.67.164: bytes=64 time=1373ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=3ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=4ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=2ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=4ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=11ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=2ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=4ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=4ms TTL=120
+Reply from 142.250.67.164: bytes=64 time=7ms TTL=120
+
+Ping statistics for 142.250.67.164:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 1373ms, Average = 141ms

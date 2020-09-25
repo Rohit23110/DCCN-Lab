@@ -1,0 +1,34 @@
+
+Tracing route to mscs.mu.edu [134.48.4.5]
+over a maximum of 30 hops:
+
+  1     1 ms     2 ms     2 ms  Dlink-Router.Dlink [192.168.0.1] 
+  2     9 ms    11 ms     7 ms  10.153.128.1 
+  3     7 ms     7 ms     5 ms  14.143.59.189.static-mumbai.vsnl.net.in [14.143.59.189] 
+  4     *        *        *     Request timed out.
+  5     5 ms     3 ms     3 ms  ix-ae-0-100.tcore2.mlv-mumbai.as6453.net [180.87.39.25] 
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8   112 ms     *      113 ms  if-ae-21-2.tcore1.pye-paris.as6453.net [80.231.154.208] 
+  9   111 ms   114 ms   112 ms  if-ae-11-2.tcore1.pvu-paris.as6453.net [80.231.153.49] 
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12   221 ms   222 ms   220 ms  MARQUETTE-U.ear3.Chicago2.Level3.net [4.16.38.70] 
+ 13   225 ms   226 ms   226 ms  134.48.10.27 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *     

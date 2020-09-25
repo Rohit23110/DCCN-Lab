@@ -1,0 +1,17 @@
+
+Pinging www.google.com [172.217.160.164] with 100 bytes of data:
+Reply from 172.217.160.164: bytes=68 (sent 100) time=1405ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=6ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=4ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=4ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=3ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=3ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=3ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=3ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=6ms TTL=119
+Reply from 172.217.160.164: bytes=68 (sent 100) time=2ms TTL=119
+
+Ping statistics for 172.217.160.164:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 1405ms, Average = 143ms
